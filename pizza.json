@@ -19,9 +19,6 @@
         "name": "Veggie Zupreme",
         "price": "19.95",
         "menu_description": "The freshest, locally sourced veggies",
-        "classifications": {
-          "vegetarian": true
-        },
         "assets": {
           "menu": [
             {
@@ -35,19 +32,14 @@
         "name": "The O.G.",
         "price": "16.95",
         "menu_description": "The Margherita—with California flair",
-        "classifications": {
-          "vegetarian": true
-        },
         "assets": {
           "menu": [
             {
               "url": "https://littlefrenchhouse.in/restaurant/wp-content/uploads/2021/01/Truffle-Chilli-Pizza-1.png"
             }
-                   ],
+                   ]
                    }
       }
-
-
                    ]
 
     
