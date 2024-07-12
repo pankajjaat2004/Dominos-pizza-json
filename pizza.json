@@ -1,46 +1,587 @@
 {
-    "Vegetarian": [
+    
+  "Recommended": [
       {
-        "id": 10,
-        "name": "Vegan Veggie",
-        "price": "23.95",
-        "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
+        "id": 20,
+        "name": "Blazing Onion & Paprika",
+        "price": "442",
+        "menu_description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy",
         "assets": {
           "menu": [
             {
-              "url": "https://www.cicis.com/content/images/cicis/Jalapeno%20pizza.png"
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…4b2-9bce1ded021d_BlazingOnionPaprikacartmenu.jpeg"
             }
-          	  ]        
-      		  }
-	},
+          	 ]        
+      		   }
+	    },
 
       {
         "id": 11,
-        "name": "Veggie Zupreme",
-        "price": "19.95",
-        "menu_description": "The freshest, locally sourced veggies",
+        "name": "Fiery Sausage & Paprika",
+        "price": "524",
+        "menu_description": "Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri",
         "assets": {
           "menu": [
             {
-              "url": "https://modpizza.com/wp-content/uploads/2021/12/Website-Maddy.png"
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…8d2-ac4a-adcd0034a08f_FierySausagePaprikadef.jpeg"
             }
-                  ]
-                  }
-     },
+                ]
+                }
+      },
+
       {
         "id": 12,
-        "name": "The O.G.",
-        "price": "16.95",
-        "menu_description": "The Margherita—with California flair",
+        "name": "Primavera Gourmet-Pizza",
+        "price": "549",
+        "menu_description": "Gourmet veggie delight with bocconcini, zucchini, bell peppers, and mushrooms.",
         "assets": {
           "menu": [
             {
-              "url": "https://littlefrenchhouse.in/restaurant/wp-content/uploads/2021/01/Truffle-Chilli-Pizza-1.png"
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…3e47f55-8b08-4e2b-af36-0826e2ca734e_Primavera.jpg"
             }
                    ]
                    }
       }
-                   ]
+    ],
 
+    "NewLaunches": [
+      {
+        "id": 30,
+        "name": "Blazing Onion & Paprika",
+        "price": "549",
+        "menu_description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…4b2-9bce1ded021d_BlazingOnionPaprikacartmenu.jpeg"
+            }
+          	 ]        
+      		   }
+	    },
+
+      {
+        "id": 31,
+        "name": "Primavera Gourmet-Pizza",
+        "price": "549",
+        "menu_description": "Gourmet veggie delight with bocconcini, zucchini, bell peppers, and mushrooms.",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…3e47f55-8b08-4e2b-af36-0826e2ca734e_Primavera.jpg"
+            }
+                ]
+                }
+      },
+
+      {
+        "id": 32,
+        "name": "Quattro Formaggi Gourmet-Pizza",
+        "price": "599",
+        "menu_description": "Gourmet cheesy delight with bocconcini, mozzarella, cheddar and ghost pepper cheese.",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…/dfd27c77-dd16-4c79-af06-1b13b654f0b1_5Cheese.jpg"
+            }
+                   ]
+                   }
+      }
+    ],
+
+    "VegPizza": [
+      {
+        "id": 40,
+        "name": "Farmhouse",
+        "price": "499",
+        "menu_description": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…b892978-f689-4199-90d2-47df4e261235_farmhouse.png"
+            }
+          	 ]        
+      		   }
+	    },
+
+      {
+        "id": 41,
+        "name": "Margherita",
+        "price": "129",
+        "menu_description": "Classic delight with 100% real mozzarella cheese",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…0b-440e-b8be-74694b1f3215_new_margherita_2502.jpg"
+            }
+                ]
+                }
+      },
+
+      {
+        "id": 42,
+        "name": "Peppy Paneer",
+        "price": "429",
+        "menu_description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…-de96-475d-a5a9-3f3698d66ee7_new_peppy_paneer.jpg"
+            }
+                   ]
+                   }
+      }
+    ],
+
+    "GourmetPizza": [
+      {
+        "id": 50,
+        "name": "Primavera Gourmet-Pizza",
+        "price": "459",
+        "menu_description": "Gourmet veggie delight with bocconcini, zucchini, bell peppers, and mushrooms.",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…3e47f55-8b08-4e2b-af36-0826e2ca734e_Primavera.jpg"
+            }
+          	 ]        
+      		   }
+	    },
+
+      {
+        "id": 51,
+        "name": "Al Fungi Gourmet-Pizza",
+        "price": "499",
+        "menu_description": "Gourmet mushroom pizza on a cheesy Mozzarella base with jalapenos & cherry tomatoes.",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…/ab6fc042-dae9-4ddd-8165-9851ac93e96c_AlFungi.jpg"
+            }
+                ]
+                }
+      },
+
+      {
+        "id": 52,
+        "name": "Chicken Pepperoni Gourmet-Pizza",
+        "price": "549",
+        "menu_description": "The classic Italian gourmet pizza with bocconcini cheese and chicken pepperoni.",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…fc5-b41c-a23718f39a16_ChickenPepperoniGourmet.jpg"
+            }
+                   ]
+                   }
+      }
+    ],
+
+    "NonVegPizza": [
+      {
+        "id": 60,
+        "name": "Pepper Barbecue Chicken",
+        "price": "429",
+        "menu_description": "Pepper barbecue chicken for that extra zing",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…be77-36e7403aa301_new_pepper_barbeque_chicken.jpg"
+            }
+          	 ]        
+      		   }
+	    },
+
+      {
+        "id": 61,
+        "name": "Chicken Dominator",
+        "price": "599",
+        "menu_description": "Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka & grilled chicken",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…-4665-a486-73aeb504da23_new_chicken_dominator.jpg"
+            }
+                ]
+                }
+      },
+
+      {
+        "id": 62,
+        "name": "Smoked Chicken Gourmet-Pizza",
+        "price": "629",
+        "menu_description": "Gourmet non-veg delight with bocconcini, juicy chicken, olives, bellpeppers & basil pesto.",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…a7d-3fd5-4107-aa57-4eed8e12ee6a_SmokedChicken.jpg"
+            }
+                   ]
+                   }
+      }
+    ],
+
+    "Beverages": [
+      {
+        "id": 70,
+        "name": "Pepsi 475ml",
+        "price": "60",
+        "menu_description": "Sparkling and Refreshing Beverage",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…c85ca-0b64-4c5a-affa-da98b34373e0_PepsiSearch.jpg"
+            }
+          	 ]        
+      		   }
+	    },
+
+      {
+        "id": 71,
+        "name": "Pepsi Black Can 300ml",
+        "price": "60",
+        "menu_description": "Maximum Taste Zero Calories",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…b0-42bb-a6b9-6676e69b9b2d_PEPSIBLACKCANSearch.jpg"
+            }
+                ]
+                }
+      },
+
+      {
+        "id": 72,
+        "name": "7Up 475ml",
+        "price": "60",
+        "menu_description": "Refreshing clear drink with a natural lemon flavor",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…b-9604-416d-93a8-cb1e87d4cea6_7UPBOTTLESearch.jpg"
+            }
+                   ]
+                   }
+      },
+
+      {
+        "id": 73,
+        "name": "Nagpur Orange",
+        "price": "75",
+        "menu_description": "Enjoy Oranges from Nagpur with the goodness of Fiber",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…f5-89ee-46fa-b7ed-1a10cf7ea22e_BEV0196-10-oct.jpg"
+            }
+                   ]
+                   }
+      },
+
+      {
+        "id": 74,
+        "name": "B Natural Mixed Fruit from Himalayas (300 ml)",
+        "price": "80",
+        "menu_description": "Premium fruits from Himalayas with the Goodness of Fiber",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…2071b0-593c-498d-9be9-3d4963eaf863_MIXEDFRUIT.jpg"
+            }
+                   ]
+                   }
+      }
+    ],
+
+    "GarlicBread": [
+      {
+        "id": 80,
+        "name": "Garlic Breadsticks + Cheesy Dip",
+        "price": "138",
+        "menu_description": "Enjoy the all-time favorite Garlic Breadsticks with the indulgent Cheesy Dip",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…9259-f599-4dcf-a866-4191d3dd5162_cheeseGBmenu.jpg"
+            }
+          	 ]        
+      		   }
+	    },
+
+      {
+        "id": 81,
+        "name": "Garlic Breadsticks + Pepsi",
+        "price": "149",
+        "menu_description": "Enjoy the all time favourite Garlic Breadsticks with Pepsi (475 ml)",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…ae53b-0b3b-4435-8fea-8c328479d310_GbPepsiHome.jpg"
+            }
+                ]
+                }
+      },
+
+      {
+        "id": 82,
+        "name": "Garlic Breadsticks",
+        "price": "109",
+        "menu_description": "Baked to perfection. Your perfect pizza partner! Tastes best with dip",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…8b3d-643f-405a-b076-5eaa4e7b57da_Garlic_bread.png"
+            }
+                   ]
+                   }
+      }
+    ],
+
+    "PizzaMania": [
+      {
+        "id": 90,
+        "name": "Golden Corn",
+        "price": "79",
+        "menu_description": "Sweet & juicy golden corn for that lipsmacking taste",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…-0c5b-4eb0-9560-63e21e2de76e_PMGoldneCornMenu.jpg"
+            }
+          	 ]        
+      		   }
+	    },
+
+      {
+        "id": 91,
+        "name": "Non Veg Loaded",
+        "price": "199",
+        "menu_description": "Chicken sausage, pepper barbecue chicken & peri-peri chicken in a fresh pan crust",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…58-3fc6-4a14-bad5-764c32d9c41f_PMNVLoadedMenu.jpg"
+            }
+                ]
+                }
+      },
+
+      {
+        "id": 92,
+        "name": "Paneer & Capsicum with Videshi Hot Sauce",
+        "price": "99",
+        "menu_description": "Internationally inspired Hot sauce to cater your spice cravings loaded with juicy Paneer and crisp Capsicum.",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…2-4d09-ab17-f0d7c343359d_PMPaneerCapsicumMenu.jpg"
+            }
+                   ]
+                   }
+      },
+
+      {
+        "id": 93,
+        "name": "Capsicum & Red Paprika with Videshi Hot Sauce",
+        "price": "89",
+        "menu_description": "Internationally inspired Hot sauce to cater your spice cravings loaded with crisp Capsicum and spicy Red",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…-4af2-a8c9-bb1a1649be97_PMCapsicumPaprikaMenu.jpg"
+            }
+                   ]
+                   }
+      },
+
+      {
+        "id": 94,
+        "name": "Classic",
+        "price": "49",
+        "menu_description": "A classic pizza topped with sprinkle of basil and parsley herbs",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…40b-de36-4c51-b84d-422563e43fe6_PMClassicMenu.jpg"
+            }
+                   ]
+                   }
+      }
+    ],
+
+    "ValueCombos": [
+      {
+        "id": 100,
+        "name": "Match Day Veg Combo",
+        "price": "459",
+        "menu_description": "Regular Margherita +Regular Farmhouse + Garlic Bread + Pepsi",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…ce413-3275-4162-9471-8cda84290c7a_CMB1375Menu.jpg"
+            }
+          	 ]        
+      		   }
+	    },
+
+      {
+        "id": 101,
+        "name": "Big Hitter Combo (Veg)",
+        "price": "649",
+        "menu_description": "Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Garlic Bread + Pepsi",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…ef0cf-33a0-4778-9fb7-4bd78b646233_CMB1383Menu.jpg"
+            }
+                ]
+                }
+      },
+
+      {
+        "id": 102,
+        "name": "Winning Partnership Combo (Non-Veg)",
+        "price": "1119",
+        "menu_description": "Medium Non Veg Supreme + Medium Chicken Dominator + Garlic Bread + 2 Pepsi",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…-80d8-26bcc3a891fc_MealinditandooripaneerMenu.jpg"
+            }
+                   ]
+                   }
+      }
+    ],
+
+    "Desserts": [
+      {
+        "id": 110,
+        "name": "Red Velvet Lava Cake",
+        "price": "139",
+        "menu_description": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to ",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…u/8fe79905-774d-4dee-ab7d-3f915a1161bb_CAKE03.jpg"
+            }
+          	 ]        
+      		   }
+	    },
+
+      {
+        "id": 111,
+        "name": "Choco Lava Cake",
+        "price": "109",
+        "menu_description": "Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…4eb645-30c0-469d-b937-895593451583_Choco_Lava.jpg"
+            }
+                ]
+                }
+      },
+
+      {
+        "id": 112,
+        "name": "Butterscotch Mousse Cake",
+        "price": "109",
+        "menu_description": "Sweet temptation! Butterscotch flavored mousse",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…c3ff-ea57-406b-bc4e-57256dcf7872_Butterscotch.png"
+            }
+                   ]
+                   }
+      }
+    ],
+
+    "CheeseBurstPizza": [
+      {
+        "id": 120,
+        "name": "Margherita",
+        "price": "318",
+        "menu_description": "Classic delight with 100% real mozzarella cheese",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…0b-440e-b8be-74694b1f3215_new_margherita_2502.jpg"
+            }
+          	 ]        
+      		   }
+	    },
+
+      {
+        "id": 121,
+        "name": "Farmhouse",
+        "price": "548",
+        "menu_description": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…b892978-f689-4199-90d2-47df4e261235_farmhouse.png"
+            }
+                ]
+                }
+      },
+
+      {
+        "id": 122,
+        "name": "Veggie Paradise",
+        "price": "568",
+        "menu_description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…46-4b71-8e9b-55bba0b96366_new_veggie_paradise.jpg"
+            }
+                   ]
+                   }
+      }
+    ],
+
+    "SpicyPizza": [
+      {
+        "id": 130,
+        "name": "Blazing Onion & Paprika",
+        "price": "424",
+        "menu_description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce.",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…4b2-9bce1ded021d_BlazingOnionPaprikacartmenu.jpeg"
+            }
+          	 ]        
+      		   }
+	    },
+
+      {
+        "id": 131,
+        "name": "Fiery Sausage & Paprika",
+        "price": "524",
+        "menu_description": "Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…8d2-ac4a-adcd0034a08f_FierySausagePaprikadef.jpeg"
+            }
+                ]
+                }
+      },
+
+      {
+        "id": 132,
+        "name": "Spiced Double Chicken",
+        "price": "16.95",
+        "menu_description": "Delightful combination of our spicy duo- Pepper Barbecue Chicken and Peri Peri Chicken.",
+        "assets": {
+          "menu": [
+            {
+              "url": "https://images.dominos.co.in/nextgen-catalog/media…9e-47aa-911c-4b523844a025_SpicedDoubleChicken.jpg"
+            }
+                   ]
+                   }
+      }
+    ]
     
 }
